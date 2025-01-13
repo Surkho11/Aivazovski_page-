@@ -1,0 +1,17 @@
+.portfolio {
+    background-color: var(--bg-main-grey);
+    padding: 79px 0 107px;
+    text-align: center;
+    color: var(--color-main-black);
+}
+.portfolio__title {
+    font-size: 34px;
+    font-weight: 700;
+}
+.portfolio__img {
+}
+.portfolio__description {
+    margin-top: 39px;
+    font-size: 18px;
+    font-weight: 500;
+}
